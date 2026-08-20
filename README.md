@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spice Garden Restaurant - Home</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Spice Garden Restaurant</h1>
+        <p>Welcome to Spice Garden - Taste the Tradition!</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <hr>
+
+    <main>
+
+        <h2>Welcome to Spice Garden</h2>
+
+        <p>
+            Spice Garden is a family-friendly restaurant offering delicious
+            Pakistani and international food. We use fresh ingredients and
+            traditional recipes to provide our customers with a memorable
+            dining experience.
+        </p>
+
+        <centre><img src="data:image/jpeg;base64,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"></centre>
+
+        <h2>Our Specialties</h2>
+
+        <ul>
+            <li>Chicken Biryani</li>
+            <li>Chicken Karahi</li>
+            <li>Beef Burger</li>
+            <li>Chicken Pizza</li>
+            <li>Fresh Juices</li>
+        </ul>
+
+        <h2>Why Choose Us?</h2>
+
+        <ol>
+            <li>Fresh and high-quality ingredients</li>
+            <li>Affordable prices</li>
+            <li>Friendly staff</li>
+            <li>Clean and comfortable environment</li>
+        </ol>
+
+    </main>
+</hr>
+    <footer>
+        <p>&copy; 2026 Spice Garden Restaurant. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spice Garden Restaurant - Home</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Spice Garden Restaurant</h1>
+        <p>Welcome to Spice Garden - Taste the Tradition!</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <hr>
+
+    <main>
+
+        <h2>Welcome to Spice Garden</h2>
+
+        <p>
+            Spice Garden is a family-friendly restaurant offering delicious
+            Pakistani and international food. We use fresh ingredients and
+            traditional recipes to provide our customers with a memorable
+            dining experience.
+        </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spice Garden Restaurant - About Us</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Spice Garden Restaurant</h1>
+        <p>About Our Restaurant</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <hr>
+
+    <main>
+
+        <h2>About Spice Garden</h2>
+
+        <p>
+            Spice Garden Restaurant was established with the aim of providing
+            delicious, fresh and affordable food to families and food lovers.
+            Our restaurant combines traditional Pakistani flavors with
+            modern dining.
+        </p>
+
+        <h2>Our Mission</h2>
+
+        <p>
+            Our mission is to serve high-quality food with excellent customer
+            service. We believe that good food brings people together and
+            creates wonderful memories.
+        </p>
+
+        <h2>Our Values</h2>
+
+        <ul>
+            <li>Quality Food</li>
+            <li>Customer Satisfaction</li>
+            <li>Cleanliness</li>
+            <li>Fresh Ingredients</li>
+            <li>Friendly Service</li>
+        </ul>
+
+        <h2>Our Restaurant</h2>
+
+        <img src="images/restaurant.jpg"
+             alt="Our Restaurant"
+             width="500">
+
+        <p>
+            Whether you are visiting us with your family, friends or
+            colleagues, Spice Garden is the perfect place to enjoy a
+            delicious meal in a comfortable environment.
+        </p>
+
+    </main>
+
+    <hr>
+
+    <footer><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spice Garden Restaurant - About Us</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Spice Garden Restaurant</h1>
+        <p>About Our Restaurant</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <hr>
+
+    <main>
+
+        <h2>About Spice Garden</h2>
+
+        <p>
+            Spice Garden Restaurant was established with the aim of providing
+            delicious, fresh and affordable food to families and food lovers.
+            Our restaurant combines traditional Pakistani flavors with
+            modern dining.
+        </p>
+
+        <h2>Our Mission</h2>
+
+        <p>
+            Our mission is to serve high-quality food with excellent customer
+            service. We believe that good food brings people together and
+            creates wonderful memories.
+        </p>
+
+        <h2>Our Values</h2>
+
+        <ul>
+            <li>Quality Food</li>
+            <li>Customer Satisfaction</li>
+            <li>Cleanliness</li>
+            <li>Fresh Ingredients</li>
+            <li>Friendly Service</li>
+        </ul>
+
+        <h2>Our Restaurant</h2>
+
+        <img src="images/restaurant.jpg"
+             alt="Our Restaurant"
+             width="500">
+
+        <p>
+            Whether you are visiting us with your family, friends or
+            colleagues, Spice Garden is the perfect place to enjoy a
+            delicious meal in a comfortable environment.
+        </p>
+
+    </main>
+
+    <hr>
+
+    <footer>
+        <p>&copy; 2026 Spice Garden Restaurant. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+        <p>&copy; 2026 Spice Garden Restaurant. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spice Garden Restaurant - Menu</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Spice Garden Restaurant</h1>
+        <p>Our Delicious Menu</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <hr>
+
+    <main>
+
+        <h2>Our Menu</h2>
+
+        <p>
+            Explore our delicious selection of traditional and modern dishes.
+        </p>
+
+        <h2>Pakistani Food</h2>
+
+        <table border="1" cellpadding="10">
+            <tr>
+                <th>Dish</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+
+            <tr>
+                <td>Chicken Biryani</td>
+                <td>Traditional spicy chicken biryani</td>
+                <td>Rs. 350</td>
+            </tr>
+
+            <tr>
+                <td>Chicken Karahi</td>
+                <td>Fresh chicken cooked with tomatoes and spices</td>
+                <td>Rs. 900</td>
+            </tr>
+
+            <tr>
+                <td>Beef Biryani</td>
+                <td>Delicious beef biryani with special spices</td>
+                <td>Rs. 450</td>
+            </tr>
+        </table>
+
+        <h2>Fast Food</h2>
+
+        <table border="1" cellpadding="10">
+            <tr>
+                <th>Item</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+
+            <tr>
+                <td>Chicken Burger</td>
+                <td>Crispy chicken burger with fresh vegetables</td>
+                <td>Rs. 450</td>
+            </tr>
+
+            <tr>
+                <td>Chicken Pizza</td>
+                <td>Cheesy pizza with chicken and vegetables</td>
+                <td>Rs. 850</td>
+            </tr>
+
+            <tr>
+                <td>French Fries</td>
+                <td>Crispy golden French fries</td>
+                <td>Rs. 200</td>
+            </tr>
+        </table>
+
+        <h2>Drinks</h2>
+
+        <ul>
+            <li>Fresh Orange Juice - Rs. 250</li>
+            <li>Mango Shake - Rs. 300</li>
+            <li>Cold Drink - Rs. 150</li>
+            <li>Mineral Water - Rs. 100</li>
+        </ul>
+
+    </main>
+
+    <hr>
+
+    <footer>
+        <p>&copy; 2026 Spice Garden Restaurant. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+        <centre><img src="data:image/jpeg;base64,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
